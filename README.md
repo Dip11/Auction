@@ -1,5 +1,5 @@
 # Auction
-### This is a smart contract built built with solidity for Fundraising Auction
+### This is a smart contract built with solidity for Fundraising Auction
 
 ## Problem Statement:
 Consider the problem of Chinese auction or penny social. We will refer to it as simple “Auction.” It is a
